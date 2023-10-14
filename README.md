@@ -1,10 +1,3 @@
-<style>
-    img {
-        display: block;
-        margin: 0 auto;
-    }
-</style>
-
 <p>
     <h3>Profile Views:</h3>
     <img
@@ -24,7 +17,7 @@
         <a href="#" target="_blank" rel="noreferrer">
             <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
-                alt="php"
+                alt="go"
                 width="40"
                 height="40"/>
         </a>
@@ -35,10 +28,11 @@
                 width="40"
                 height="40"/>
         </a>
+        <br>
         <a href="#" target="_blank" rel="noreferrer">
             <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
-                alt="ruby"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+                alt="python"
                 width="40"
                 height="40"/>
         </a>
@@ -60,7 +54,6 @@
                 height="40"/>
         </a>
     </p>
-    <br>
     <h3>Stats:</h3>
     <p><img
         src="https://github-readme-stats.vercel.app/api/top-langs?username=Shiirookami&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
