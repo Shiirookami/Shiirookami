@@ -3,12 +3,10 @@
     <img
         src="https://komarev.com/ghpvc/?username=Shiirookami&label=Profile%20views&color=0e75b6&style=flat"
         alt="Shiirookami"/>
-.. image:: https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Frzy_rmd1
-   :alt: X (formerly Twitter) URL
-
-
+    <img
+        alt="X (formerly Twitter) URL"
+        src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Frzy_rmd1">
 </p>
-<br>
     <h3>Languages</h3>
     <p>
         <a href="#" target="_blank" rel="noreferrer">
