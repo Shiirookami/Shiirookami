@@ -1,8 +1,12 @@
 <p>
-    <h3>Profile Views:</h3>
+    <em>Profile Views:</em>
     <img
         src="https://komarev.com/ghpvc/?username=Shiirookami&label=Profile%20views&color=0e75b6&style=flat"
         alt="Shiirookami"/>
+.. image:: https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Frzy_rmd1
+   :alt: X (formerly Twitter) URL
+
+
 </p>
 <br>
     <h3>Languages</h3>
