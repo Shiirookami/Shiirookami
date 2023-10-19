@@ -63,5 +63,5 @@
         alt="Shiirookami"
         bg_color="#808080"/></p>
     <a href="https://git.io/streak-stats"><img
-        src="https://github-readme-streak-stats.herokuapp.com?user=Shiirookami&theme=radical"
+        src="https://github-readme-streak-stats.herokuapp.com?username=Shiirookami&theme=radical"
         alt="GitHub Streak"/></a>
