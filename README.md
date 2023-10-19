@@ -57,11 +57,12 @@
                 height="40"/>
         </a>
     </p>
-    <h3>Stats:</h3>
-    <p><img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=Shiirookami&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    | Most Used Languages | Contribution Streak |
+    | --- | --- |
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shiirookami&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
         alt="Shiirookami"
-        bg_color="#808080"/></p>
-    <a href="https://git.io/streak-stats"><img
+        bg_color="#808080"/> |
+    <a href="https://github.com/Shiirookami"><img
         src="https://github-readme-streak-stats.herokuapp.com?username=Shiirookami&theme=radical"
-        alt="GitHub Streak"/></a>
+        alt="GitHub Streak"/>
+    </a>
