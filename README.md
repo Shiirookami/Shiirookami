@@ -57,6 +57,6 @@
                 height="40"/>
         </a>
     </p>
-   | Most Used Languages | Contribution Streak |
+     | Most Used Languages | Contribution Streak |
     | --- | --- |
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shiirookami&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="Shiirookami" bg_color="#808080"/> | <img src="https://github-readme-streak-stats.herokuapp.com?user=Shiirookami&theme= alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shiirookami&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&hide=css,scss,less,html,hack" alt="Shiirookami" bg_color="#808080"/> | <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shiirooakmi&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,less,html,hack" /> 
