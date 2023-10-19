@@ -33,7 +33,7 @@ if __name__ == "__main__":
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-#### Back-end
+#### Backend
 
 ![PHP](https://img.shields.io/badge/Php-3178C6?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-A81D33?style=for-the-badge&logo=Laravel&logoColor=white)
@@ -62,4 +62,4 @@ if __name__ == "__main__":
 ### Stats
 | Most Used Languages | Contribution Streak |
 | --- | --- |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shiirookami&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&hide=css,scss,less,html,hack" alt="Shiirookami" bg_color="#808080"/> | <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shiirookami&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,less,html,hack"/> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shiirookami&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&hide=css,scss,less,html,hack" alt="Shiirookami" bg_color="#808080"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiirookami&layout=compact&count_private=true&theme=github-dark-blue" /> |
