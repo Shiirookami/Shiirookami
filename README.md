@@ -62,4 +62,4 @@ if __name__ == "__main__":
 ### Stats
 | Most Used Languages | Contribution Streak |
 | --- | --- |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shiirookami&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&hide=css,scss,less,html,hack" alt="Shiirookami" bg_color="#808080"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiirookami&layout=compact&count_private=true&theme=github-dark-blue" /> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shiirookami&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&hide=css,javascript,scss,less,html,hack" alt="Shiirookami" bg_color="#808080"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiirookami&layout=compact&count_private=true&theme=github-dark-blue" /> |
