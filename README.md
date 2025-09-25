@@ -5,7 +5,7 @@
         alt="Shiirookami"/>
     <img
         alt="X (formerly Twitter) URL"
-        src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2F0xshiiroo">
+        src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%">
     <a href="https://github.com/Shiirookami"><img src="https://img.shields.io/github/followers/Shiirookami?label=followers&style=social"/></a>
 </p>
 
@@ -14,9 +14,9 @@
 ```Python
 class Profile:
     def __init__(self):
-        self.name = "Shiro"
-        self.hobbies = ["Hiking", "Climbing", "Eating", "AstroPhotography"]
-        self.age = 22
+        self.name = "Lynn"
+        self.hobbies = ["Camp", "cooking", "Eating", "AstroPhotography"]
+        self.age = 20
 
     def disp_profile(self):
         return {
