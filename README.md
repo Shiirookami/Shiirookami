@@ -14,7 +14,7 @@
 ```Python
 class Profile:
     def __init__(self):
-        self.name = "Lynn"
+        self.name = ""
         self.hobbies = ["Camp", "cooking", "Eating", "AstroPhotography"]
         self.age = 20
 
